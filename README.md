@@ -1,11 +1,11 @@
-# 🧠 Smart Resume Builder
+# Smart Resume Builder
 
 A **modern, minimal, and fully responsive Resume Builder** built with **React + TypeScript + Tailwind CSS**.  
 Design, preview, and export professional resumes effortlessly — all in your browser.
 
 ---
 
-## ✨ Features
+## Features
 
 - ⚡ **Live Preview** — Instantly see updates while editing.  
 - 🎨 **Multiple Templates** — Choose between *Minimal*, *Classic*, and *Modern* layouts.  
@@ -16,7 +16,7 @@ Design, preview, and export professional resumes effortlessly — all in your br
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |:------|:------------|
@@ -30,7 +30,7 @@ Design, preview, and export professional resumes effortlessly — all in your br
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -59,11 +59,11 @@ src/
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/smart-resume-builder.git
+git clone https://github.com/Sumit5148/smart-resume-builder.git
 
 # Navigate to project
 cd smart-resume-builder
@@ -79,26 +79,18 @@ The app will start at [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 🧾 Export Options
+## Export Options
 
-### 🧾 Download PDF
+### Download PDF
 Click **“Download PDF”** in the header — it automatically generates a print-ready resume.
 
-### 🧮 Export LaTeX (Overleaf Ready)
+### Export LaTeX (Overleaf Ready)
 Click **“View LaTeX Code”** → Copy or Download `.tex`  
 Then paste it directly into [Overleaf](https://www.overleaf.com/) → Compile → ✅ Professional resume.
 
 ---
 
-## 📸 Screenshots
-
-|                    Builder UI                   |                Resume Preview                |
-| :---------------------------------------------: | :------------------------------------------: |
-| ![Builder UI](./public/screenshots/builder.png) | ![Preview](./public/screenshots/preview.png) |
-
----
-
-## 🧠 Author
+## Author
 
 **Sumit Kushwaha**  
 💼 *Smart Resume Builder*  
@@ -112,7 +104,3 @@ Then paste it directly into [Overleaf](https://www.overleaf.com/) → Compile �
 This project is licensed under the **MIT License** — feel free to use and modify it.
 
 ---
-
-### ⭐ Support the Project
-
-If you found this useful, consider giving it a ⭐ on GitHub to support future updates!
