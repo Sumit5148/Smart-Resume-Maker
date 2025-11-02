@@ -1,9 +1,3 @@
-Absolutely ✅ — here’s your **GitHub-ready `README.md`**, fully formatted in Markdown with badges, sections, and clean styling.
-Just copy this file and place it in the root of your project as `README.md`.
-
----
-
-```markdown
 # 🧠 Smart Resume Builder
 
 A **modern, minimal, and fully responsive Resume Builder** built with **React + TypeScript + Tailwind CSS**.  
@@ -39,7 +33,6 @@ Design, preview, and export professional resumes effortlessly — all in your br
 ## 📁 Project Structure
 
 ```
-
 src/
 ├─ components/
 │   ├─ ResumeBuilder/
@@ -61,9 +54,8 @@ src/
 ├─ pages/
 │   └─ index.tsx
 └─ types/
-└─ resume.ts
-
-````
+    └─ resume.ts
+```
 
 ---
 
@@ -81,7 +73,7 @@ npm install
 
 # Run locally
 npm run dev
-````
+```
 
 The app will start at [http://localhost:5173](http://localhost:5173)
 
@@ -90,12 +82,10 @@ The app will start at [http://localhost:5173](http://localhost:5173)
 ## 🧾 Export Options
 
 ### 🧾 Download PDF
-
 Click **“Download PDF”** in the header — it automatically generates a print-ready resume.
 
 ### 🧮 Export LaTeX (Overleaf Ready)
-
-Click **“View LaTeX Code”** → Copy or Download `.tex`
+Click **“View LaTeX Code”** → Copy or Download `.tex`  
 Then paste it directly into [Overleaf](https://www.overleaf.com/) → Compile → ✅ Professional resume.
 
 ---
@@ -110,10 +100,10 @@ Then paste it directly into [Overleaf](https://www.overleaf.com/) → Compile �
 
 ## 🧠 Author
 
-**Kumar Satyam**
-💼 *Smart Resume Builder by *
-📧 [[YourEmail@example.com](mailto:YourEmail@example.com)]
-🌐 [Your Portfolio or GitHub Profile]
+**Sumit Kushwaha**  
+💼 *Smart Resume Builder*  
+📧 [sumitkumar21811@gmail.com](mailto:sumitkumar21811@gmail.com)  
+🌐 [https://github.com/Sumit5148]
 
 ---
 
@@ -126,5 +116,3 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ### ⭐ Support the Project
 
 If you found this useful, consider giving it a ⭐ on GitHub to support future updates!
-
-```
